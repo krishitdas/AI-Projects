@@ -1,3 +1,5 @@
+Curated list of AI projects by KalyanM45. Saved for learning/reference.
+
 | S No | Project Name | Domain | Repository | End-to-End |
 | ------------ | -------------- | ---------- | --------- | --------- |
 | 01 | Airbnb Price Prediction | Classification | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/KalyanMurapaka45/End-to-End-Airbnb-Price-Prediction) | <p align="center">✔</p> |
@@ -47,3 +49,4 @@
 | 08    | Brain Tumor Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 09    | Pneumonia Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 10    | Realtime Face Detection | Deep Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
+
